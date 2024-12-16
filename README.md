@@ -17,4 +17,4 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DaniilKozhushko)
 
-<h5 align="left">Занимаюсь уже 9+ часов сегодня - фантазия предательски покинула меня
+<h5 align="left">Занимаюсь уже 10+ часов сегодня - фантазия предательски покинула меня
