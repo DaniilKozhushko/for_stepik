@@ -1,6 +1,2 @@
 # for_stepik
-МОЙ ПЕРВЫЙ COMMIT))
-
-точка сохранения
-
-вторая точка сохранения
+https://img.shields.io/badge/DANIIL%20KOZHUSHKO-STEPIK-blue
