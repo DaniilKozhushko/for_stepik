@@ -1,2 +1,3 @@
 # food_track
-![food_track](https://github.com/user-attachments/assets/1eb5f9f6-7f1d-4a4a-a7ca-ebf6595b9b8b)
+
+![food_track](https://github.com/user-attachments/assets/e4d75812-c7f7-4929-96ed-733f12168a24)
